@@ -1,0 +1,653 @@
+TCordovaTest
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/Info.plist CordovaTest/CordovaTest-Info.plist
+cPhaseScriptExecution "Copy www directory" /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Script-304B58A110DAC018002A0835.sh
+cCpResource CordovaTest/config.xml build/CordovaTest.app/config.xml
+cCpResource CordovaTest/Resources/icons/icon.png build/CordovaTest.app/icon.png
+cCpResource CordovaTest/Resources/icons/icon-72.png build/CordovaTest.app/icon-72.png
+cCpResource CordovaTest/Resources/Capture.bundle build/CordovaTest.app/Capture.bundle
+cCpResource CordovaTest/Resources/icons/icon@2x.png build/CordovaTest.app/icon@2x.png
+cCopyStringsFile /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/en.lproj/Localizable.strings CordovaTest/Resources/en.lproj/Localizable.strings
+cCopyStringsFile /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/es.lproj/Localizable.strings CordovaTest/Resources/es.lproj/Localizable.strings
+cCompileXIB /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Classes/MainViewController.xib
+cCopyStringsFile /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/de.lproj/Localizable.strings CordovaTest/Resources/de.lproj/Localizable.strings
+cCpResource CordovaTest/Resources/splash/Default-Landscape@2x~ipad.png build/CordovaTest.app/Default-Landscape@2x~ipad.png
+cCpResource CordovaTest/Resources/splash/Default-Landscape~ipad.png build/CordovaTest.app/Default-Landscape~ipad.png
+cCopyStringsFile /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/se.lproj/Localizable.strings CordovaTest/Resources/se.lproj/Localizable.strings
+cCpResource CordovaTest/Resources/splash/Default-Portrait~ipad.png build/CordovaTest.app/Default-Portrait~ipad.png
+cCpResource CordovaTest/Resources/splash/Default-Portrait@2x~ipad.png build/CordovaTest.app/Default-Portrait@2x~ipad.png
+cCpResource CordovaTest/Resources/splash/Default@2x~iphone.png build/CordovaTest.app/Default@2x~iphone.png
+cCpResource CordovaTest/Resources/splash/Default-568h@2x~iphone.png build/CordovaTest.app/Default-568h@2x~iphone.png
+cCpResource CordovaTest/Resources/splash/Default~iphone.png build/CordovaTest.app/Default~iphone.png
+cCpResource CordovaTest/Resources/icons/icon-72@2x.png build/CordovaTest.app/icon-72@2x.png
+cProcessPCH /var/folders/yz/nx79cwt14j79lm1mmjdf9n880000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaTest-Prefix-aahsssbispolkggiccnbozbewcai/CordovaTest-Prefix.pch.pth CordovaTest/CordovaTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/main.o /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/AppDelegate.o /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/PushPlugin.o /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Plugins/PushPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/MainViewController.o /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/AppDelegate+notification.o /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Plugins/AppDelegate+notification.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c000000005180A8F10000000000000110
+t1367386353
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c0000000051223CDE00000000001EB540
+t1361198302
+s2012480
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c0000000051223CDE00000000000C1030
+t1361198302
+s790576
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c0000000051223CDE0000000000193640
+t1361198302
+s1652288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c0000000051223CDE00000000000226E0
+t1361198302
+s141024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c0000000051223CDE00000000003D4DF0
+t1361198302
+s4017648
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000051223CDE0000000000215DB0
+t1361198302
+s2186672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000051223CDF0000000000228FE0
+t1361198303
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c0000000051223CDF000000000009C590
+t1361198303
+s640400
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c0000000051223CDF0000000000085620
+t1361198303
+s546336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000051223CE100000000003DDFA0
+t1361198305
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c0000000051223CE300000000002DBA50
+t1361198307
+s2996816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c0000000051223CE300000000000BCC20
+t1361198307
+s773152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000051223CE400000000001D5750
+t1361198308
+s1922896
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c0000000051223CE5000000000006CC50
+t1361198309
+s445520
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000051223CE60000000000AB6230
+t1361198310
+s11231792
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Classes/AppDelegate.m
+c0000000051E136C5000000000000123E
+t1373714117
+s4670
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Classes/MainViewController.m
+c0000000051E136C5000000000000126C
+t1373714117
+s4716
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Classes/MainViewController.xib
+c0000000051E136C40000000000001759
+t1373714116
+s5977
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/CordovaTest-Prefix.pch
+c0000000051E136C500000000000003C7
+t1373714117
+s967
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Plugins/AppDelegate+notification.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Plugins/PushPlugin.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Resources/Capture.bundle
+c0000000051E136C4000000000000030E
+t1373714116
+s782
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Resources/de.lproj/Localizable.strings
+c0000000051E136C40000000000000485
+t1373714116
+s1157
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Resources/en.lproj/Localizable.strings
+c0000000051E136C40000000000000470
+t1373714116
+s1136
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Resources/es.lproj/Localizable.strings
+c0000000051E136C4000000000000047D
+t1373714116
+s1149
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Resources/icons/icon-72.png
+c0000000051E136C40000000000001350
+t1373714116
+s4944
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Resources/icons/icon-72@2x.png
+c0000000051E136C40000000000002DBA
+t1373714116
+s11706
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Resources/icons/icon.png
+c0000000051E136C40000000000000F3E
+t1373714116
+s3902
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Resources/icons/icon@2x.png
+c0000000051E136C40000000000001EBD
+t1373714116
+s7869
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Resources/se.lproj/Localizable.strings
+c0000000051E136C40000000000000471
+t1373714116
+s1137
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Resources/splash/Default-568h@2x~iphone.png
+c0000000051E136C400000000000085B1
+t1373714116
+s34225
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Resources/splash/Default-Landscape@2x~ipad.png
+c0000000051E136C40000000000012DF4
+t1373714116
+s77300
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Resources/splash/Default-Landscape~ipad.png
+c0000000051E136C40000000000008877
+t1373714116
+s34935
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Resources/splash/Default-Portrait@2x~ipad.png
+c0000000051E136C40000000000012B02
+t1373714116
+s76546
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Resources/splash/Default-Portrait~ipad.png
+c0000000051E136C400000000000085E6
+t1373714116
+s34278
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Resources/splash/Default@2x~iphone.png
+c0000000051E136C40000000000007323
+t1373714116
+s29475
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Resources/splash/Default~iphone.png
+c0000000051E136C4000000000000289A
+t1373714116
+s10394
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/config.xml
+c0000000051E136F900000000000008D4
+t1373714169
+s2260
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/main.m
+c0000000051E136C5000000000000045D
+t1373714117
+s1117
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app
+t2
+s0
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app.dSYM
+t2
+s0
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/Capture.bundle
+t2
+s0
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/CordovaTest
+t2
+s0
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/Default-568h@2x~iphone.png
+t2
+s0
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/Default-Landscape@2x~ipad.png
+t2
+s0
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/Default-Landscape~ipad.png
+t2
+s0
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/Default-Portrait@2x~ipad.png
+t2
+s0
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/Default-Portrait~ipad.png
+t2
+s0
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/Default@2x~iphone.png
+t2
+s0
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/Default~iphone.png
+t2
+s0
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/Info.plist
+t2
+s0
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/MainViewController.nib
+t2
+s0
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/PkgInfo
+t2
+s0
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/config.xml
+t2
+s0
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/de.lproj/Localizable.strings
+t2
+s0
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/en.lproj/Localizable.strings
+t2
+s0
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/es.lproj/Localizable.strings
+t2
+s0
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/icon-72.png
+t2
+s0
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/icon-72@2x.png
+t2
+s0
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/icon.png
+t2
+s0
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/icon@2x.png
+t2
+s0
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/se.lproj/Localizable.strings
+t2
+s0
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/AppDelegate+notification.o
+t2
+s0
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/CordovaTest.LinkFileList
+c0000000051E13700000000000000032C
+t1373714176
+s812
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/MainViewController.o
+t2
+s0
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/PushPlugin.o
+t2
+s0
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Script-304B58A110DAC018002A0835.sh
+c0000000051E137000000000000000470
+t1373714176
+s1136
+
+N/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/libCordova.a
+c0000000051E137000000000000368B90
+t1373714176
+s3574672
+
+N/var/folders/yz/nx79cwt14j79lm1mmjdf9n880000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaTest-Prefix-aahsssbispolkggiccnbozbewcai/CordovaTest-Prefix.pch.pth
+t2
+s0
+
+NCordovaTest/CordovaTest-Info.plist
+c0000000051E136F9000000000000073B
+t1373714169
+s1851
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies0804b6806e91b741^0c92c6806e91b741^---0#1#0#--18"Check dependencies36"F11B76CD-2F82-4790-A08C-6ACABEDD7830-
+
+CCompileC build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/AppDelegate+notification.o /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Plugins/AppDelegate+notification.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395406983.320479
+e395406983.406497
+r0
+xCompileC
+xbuild/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/AppDelegate+notification.o
+x/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Plugins/AppDelegate+notification.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: error: no such file or directory: '/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Plugins/AppDelegate+notification.m'
+oclang: error: no input files
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Plugins/AppDelegate+notification.m553052876e91b741^ef0368876e91b741^-306"clang: error: no such file or directory: '/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Plugins/AppDelegate+notification.m'clang: error: no input filesCommand /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 11(21%IDEActivityLogMessage2@124"Command /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 1-395406983#18446744073709551615#0#-2#--29"Apple LLVM compiler 4.2 Error--0#0#0#-19%DVTDocumentLocation3@124"file://localhost/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Plugins/AppDelegate+notification.m000000000080d041^4343"CompileC build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/AppDelegate+notification.o CordovaTest/Plugins/AppDelegate+notification.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres.app/Contents/MacOS/bin:/Apache/maven/current//bin/bin:/Users/matzew/Forge/current//bin:/Users/matzew/Work/Conferences/Samples/VERTX/vert.x-1.3.1.final//bin:/Apache/Cordova/current/bin:/Library/Java/JavaVirtualMachines/jdk1.7.0_09.jdk/Contents/Home//bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/matzew/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/CordovaTest-generated-files.hmap -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/CordovaTest-own-target-headers.hmap -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/CordovaTest-all-target-headers.hmap -iquote /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/CordovaTest-project-headers.hmap -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/include -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/usr/local/lib/include -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/UninstalledProducts/include -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/DerivedSources/i386 -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/DerivedSources -F/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build -include /var/folders/yz/nx79cwt14j79lm1mmjdf9n880000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaTest-Prefix-aahsssbispolkggiccnbozbewcai/CordovaTest-Prefix.pch -MMD -MT dependencies -MF /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/AppDelegate+notification.d --serialize-diagnostics /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/AppDelegate+notification.dia -c /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Plugins/AppDelegate+notification.m -o /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/AppDelegate+notification.o36"B0BED321-B70A-460C-A53B-CDDB4F5D5486-
+
+CCompileC build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/AppDelegate.o /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395406983.320437
+e395406983.507464
+r1
+xCompileC
+xbuild/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/AppDelegate.o
+x/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Classes/AppDelegate.m:68:25: warning: 'useSplashScreen' is deprecated: Deprecated in Cordova 2.5. Add/Remove the SplashScreen plugin instead of setting this property. [-Wdeprecated-declarations]
+o    self.viewController.useSplashScreen = YES;
+o                        ^
+o/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/include/Cordova/CDVViewController.h:46:47: note: 'useSplashScreen' declared here
+o@property (nonatomic, readwrite, assign) BOOL useSplashScreen CDV_DEPRECATED(2.5, "Add/Remove the SplashScreen plugin instead of setting this property.");
+o                                              ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Classes/AppDelegate.ma52d52876e91b741^67f281876e91b741^-715"/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Classes/AppDelegate.m:68:25: warning: 'useSplashScreen' is deprecated: Deprecated in Cordova 2.5. Add/Remove the SplashScreen plugin instead of setting this property. [-Wdeprecated-declarations]    self.viewController.useSplashScreen = YES;                        ^/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/include/Cordova/CDVViewController.h:46:47: note: 'useSplashScreen' declared here@property (nonatomic, readwrite, assign) BOOL useSplashScreen CDV_DEPRECATED(2.5, "Add/Remove the SplashScreen plugin instead of setting this property.");                                              ^1 warning generated.-0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Classes/AppDelegate.m0000000000000000^4265"CompileC build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/AppDelegate.o CordovaTest/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres.app/Contents/MacOS/bin:/Apache/maven/current//bin/bin:/Users/matzew/Forge/current//bin:/Users/matzew/Work/Conferences/Samples/VERTX/vert.x-1.3.1.final//bin:/Apache/Cordova/current/bin:/Library/Java/JavaVirtualMachines/jdk1.7.0_09.jdk/Contents/Home//bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/matzew/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/CordovaTest-generated-files.hmap -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/CordovaTest-own-target-headers.hmap -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/CordovaTest-all-target-headers.hmap -iquote /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/CordovaTest-project-headers.hmap -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/include -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/usr/local/lib/include -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/UninstalledProducts/include -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/DerivedSources/i386 -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/DerivedSources -F/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build -include /var/folders/yz/nx79cwt14j79lm1mmjdf9n880000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaTest-Prefix-aahsssbispolkggiccnbozbewcai/CordovaTest-Prefix.pch -MMD -MT dependencies -MF /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/AppDelegate.dia -c /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Classes/AppDelegate.m -o /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/AppDelegate.o36"95346AE2-D28D-43C4-ABD6-FF8D233A587C-
+
+CCompileC build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/MainViewController.o /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395406983.320468
+e395406983.507355
+r1
+xCompileC
+xbuild/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/MainViewController.o
+x/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Classes/MainViewController.m533c52876e91b741^18ed81876e91b741^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Classes/MainViewController.m0000000000000000^4307"CompileC build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/MainViewController.o CordovaTest/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres.app/Contents/MacOS/bin:/Apache/maven/current//bin/bin:/Users/matzew/Forge/current//bin:/Users/matzew/Work/Conferences/Samples/VERTX/vert.x-1.3.1.final//bin:/Apache/Cordova/current/bin:/Library/Java/JavaVirtualMachines/jdk1.7.0_09.jdk/Contents/Home//bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/matzew/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/CordovaTest-generated-files.hmap -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/CordovaTest-own-target-headers.hmap -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/CordovaTest-all-target-headers.hmap -iquote /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/CordovaTest-project-headers.hmap -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/include -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/usr/local/lib/include -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/UninstalledProducts/include -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/DerivedSources/i386 -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/DerivedSources -F/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build -include /var/folders/yz/nx79cwt14j79lm1mmjdf9n880000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaTest-Prefix-aahsssbispolkggiccnbozbewcai/CordovaTest-Prefix.pch -MMD -MT dependencies -MF /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/MainViewController.dia -c /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Classes/MainViewController.m -o /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/MainViewController.o36"86379973-443D-46A0-8595-D8C10AFAFACF-
+
+CCompileC build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/PushPlugin.o /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Plugins/PushPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395406983.320464
+e395406983.406446
+r0
+xCompileC
+xbuild/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/PushPlugin.o
+x/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Plugins/PushPlugin.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: error: no such file or directory: '/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Plugins/PushPlugin.m'
+oclang: error: no input files
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Plugins/PushPlugin.m0c3d52876e91b741^6d0268876e91b741^-292"clang: error: no such file or directory: '/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Plugins/PushPlugin.m'clang: error: no input filesCommand /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 11(21%IDEActivityLogMessage2@124"Command /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 1-395406983#18446744073709551615#0#-2#--29"Apple LLVM compiler 4.2 Error--0#0#0#-19%DVTDocumentLocation3@110"file://localhost/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Plugins/PushPlugin.m000000000080d041^4259"CompileC build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/PushPlugin.o CordovaTest/Plugins/PushPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres.app/Contents/MacOS/bin:/Apache/maven/current//bin/bin:/Users/matzew/Forge/current//bin:/Users/matzew/Work/Conferences/Samples/VERTX/vert.x-1.3.1.final//bin:/Apache/Cordova/current/bin:/Library/Java/JavaVirtualMachines/jdk1.7.0_09.jdk/Contents/Home//bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/matzew/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/CordovaTest-generated-files.hmap -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/CordovaTest-own-target-headers.hmap -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/CordovaTest-all-target-headers.hmap -iquote /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/CordovaTest-project-headers.hmap -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/include -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/usr/local/lib/include -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/UninstalledProducts/include -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/DerivedSources/i386 -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/DerivedSources -F/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build -include /var/folders/yz/nx79cwt14j79lm1mmjdf9n880000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaTest-Prefix-aahsssbispolkggiccnbozbewcai/CordovaTest-Prefix.pch -MMD -MT dependencies -MF /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/PushPlugin.d --serialize-diagnostics /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/PushPlugin.dia -c /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Plugins/PushPlugin.m -o /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/PushPlugin.o36"384AA727-C3F5-4DEB-9367-2A9F90F6826E-
+
+CCompileC build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/main.o /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395406983.320446
+e395406983.507458
+r1
+xCompileC
+xbuild/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/main.o
+x/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/main.mc72d52876e91b741^2cf081876e91b741^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/main.m0000000000000000^4207"CompileC build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/main.o CordovaTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres.app/Contents/MacOS/bin:/Apache/maven/current//bin/bin:/Users/matzew/Forge/current//bin:/Users/matzew/Work/Conferences/Samples/VERTX/vert.x-1.3.1.final//bin:/Apache/Cordova/current/bin:/Library/Java/JavaVirtualMachines/jdk1.7.0_09.jdk/Contents/Home//bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/matzew/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/CordovaTest-generated-files.hmap -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/CordovaTest-own-target-headers.hmap -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/CordovaTest-all-target-headers.hmap -iquote /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/CordovaTest-project-headers.hmap -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/include -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/usr/local/lib/include -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/UninstalledProducts/include -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/DerivedSources/i386 -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/DerivedSources -F/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build -include /var/folders/yz/nx79cwt14j79lm1mmjdf9n880000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaTest-Prefix-aahsssbispolkggiccnbozbewcai/CordovaTest-Prefix.pch -MMD -MT dependencies -MF /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/main.dia -c /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/main.m -o /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/main.o36"2458B6CB-2F33-4DC3-9855-FAA595CB104B-
+
+CCompileXIB /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Classes/MainViewController.xib
+s395406977.015991
+e395406982.977808
+r1
+xCompileXIB
+x/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Classes/MainViewController.xib
+o2013-07-13 13:16:22.211 Interface Builder Cocoa Touch Tool[90733:f07] CFPreferences: user home directory at file://localhost/Users/matzew/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compiling /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Classes/MainViewController.xib854204816e91b741^1556fa866e91b741^-239"2013-07-13 13:16:22.211 Interface Builder Cocoa Touch Tool[90733:f07] CFPreferences: user home directory at file://localhost/Users/matzew/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Classes/MainViewController.xib0000000000000000^1442"CompileXIB CordovaTest/Classes/MainViewController.xib    cd /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres.app/Contents/MacOS/bin:/Apache/maven/current//bin/bin:/Users/matzew/Forge/current//bin:/Users/matzew/Work/Conferences/Samples/VERTX/vert.x-1.3.1.final//bin:/Apache/Cordova/current/bin:/Library/Java/JavaVirtualMachines/jdk1.7.0_09.jdk/Contents/Home//bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/matzew/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/MainViewController.nib /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Classes/MainViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"AA04B687-EAB4-436B-B269-BEBF8DCA7BAE-
+
+CCopyStringsFile /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/de.lproj/Localizable.strings CordovaTest/Resources/de.lproj/Localizable.strings
+s395406977.019004
+e395406977.080925
+r1
+xCopyStringsFile
+x/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/de.lproj/Localizable.strings
+xCordovaTest/Resources/de.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy CordovaTest/Resources/de.lproj/Localizable.stringsd8f004816e91b741^5fb714816e91b741^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Resources/de.lproj/Localizable.strings0000000000000000^1087"CopyStringsFile build/CordovaTest.app/de.lproj/Localizable.strings CordovaTest/Resources/de.lproj/Localizable.strings    cd /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres.app/Contents/MacOS/bin:/Apache/maven/current//bin/bin:/Users/matzew/Forge/current//bin:/Users/matzew/Work/Conferences/Samples/VERTX/vert.x-1.3.1.final//bin:/Apache/Cordova/current/bin:/Library/Java/JavaVirtualMachines/jdk1.7.0_09.jdk/Contents/Home//bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/matzew/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/de.lproj -- CordovaTest/Resources/de.lproj/Localizable.strings36"98321ED5-47D5-4BD5-B3A5-0D9FF4C4FDE4-
+
+CCopyStringsFile /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/en.lproj/Localizable.strings CordovaTest/Resources/en.lproj/Localizable.strings
+s395406977.015628
+e395406977.080465
+r1
+xCopyStringsFile
+x/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/en.lproj/Localizable.strings
+xCordovaTest/Resources/en.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy CordovaTest/Resources/en.lproj/Localizable.strings3e2404816e91b741^289914816e91b741^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Resources/en.lproj/Localizable.strings0000000000000000^1087"CopyStringsFile build/CordovaTest.app/en.lproj/Localizable.strings CordovaTest/Resources/en.lproj/Localizable.strings    cd /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres.app/Contents/MacOS/bin:/Apache/maven/current//bin/bin:/Users/matzew/Forge/current//bin:/Users/matzew/Work/Conferences/Samples/VERTX/vert.x-1.3.1.final//bin:/Apache/Cordova/current/bin:/Library/Java/JavaVirtualMachines/jdk1.7.0_09.jdk/Contents/Home//bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/matzew/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/en.lproj -- CordovaTest/Resources/en.lproj/Localizable.strings36"8BEA3780-970C-49E8-B05A-D7095BD98431-
+
+CCopyStringsFile /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/es.lproj/Localizable.strings CordovaTest/Resources/es.lproj/Localizable.strings
+s395406977.015919
+e395406977.080631
+r1
+xCopyStringsFile
+x/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/es.lproj/Localizable.strings
+xCordovaTest/Resources/es.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy CordovaTest/Resources/es.lproj/Localizable.stringsf12d04816e91b741^d7a314816e91b741^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Resources/es.lproj/Localizable.strings0000000000000000^1087"CopyStringsFile build/CordovaTest.app/es.lproj/Localizable.strings CordovaTest/Resources/es.lproj/Localizable.strings    cd /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres.app/Contents/MacOS/bin:/Apache/maven/current//bin/bin:/Users/matzew/Forge/current//bin:/Users/matzew/Work/Conferences/Samples/VERTX/vert.x-1.3.1.final//bin:/Apache/Cordova/current/bin:/Library/Java/JavaVirtualMachines/jdk1.7.0_09.jdk/Contents/Home//bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/matzew/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/es.lproj -- CordovaTest/Resources/es.lproj/Localizable.strings36"D4856621-7ADC-4F7C-888A-BA8315910BC0-
+
+CCopyStringsFile /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/se.lproj/Localizable.strings CordovaTest/Resources/se.lproj/Localizable.strings
+s395406977.066405
+e395406977.118415
+r1
+xCopyStringsFile
+x/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/se.lproj/Localizable.strings
+xCordovaTest/Resources/se.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy CordovaTest/Resources/se.lproj/Localizable.stringsfb1e11816e91b741^f04e1e816e91b741^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Resources/se.lproj/Localizable.strings0000000000000000^1087"CopyStringsFile build/CordovaTest.app/se.lproj/Localizable.strings CordovaTest/Resources/se.lproj/Localizable.strings    cd /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres.app/Contents/MacOS/bin:/Apache/maven/current//bin/bin:/Users/matzew/Forge/current//bin:/Users/matzew/Work/Conferences/Samples/VERTX/vert.x-1.3.1.final//bin:/Apache/Cordova/current/bin:/Library/Java/JavaVirtualMachines/jdk1.7.0_09.jdk/Contents/Home//bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/matzew/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/se.lproj -- CordovaTest/Resources/se.lproj/Localizable.strings36"E70444ED-A6B9-4D24-9178-AC338A9413B0-
+
+CCpResource CordovaTest/Resources/Capture.bundle build/CordovaTest.app/Capture.bundle
+s395406977.015475
+e395406977.608200
+r1
+xCpResource
+xCordovaTest/Resources/Capture.bundle
+xbuild/CordovaTest.app/Capture.bundle
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy build/CordovaTest.app/Capture.bundle161604816e91b741^eeb29b816e91b741^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/Capture.bundle000000000080d041^1112"CpResource CordovaTest/Resources/Capture.bundle build/CordovaTest.app/Capture.bundle    cd /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres.app/Contents/MacOS/bin:/Apache/maven/current//bin/bin:/Users/matzew/Forge/current//bin:/Users/matzew/Work/Conferences/Samples/VERTX/vert.x-1.3.1.final//bin:/Apache/Cordova/current/bin:/Library/Java/JavaVirtualMachines/jdk1.7.0_09.jdk/Contents/Home//bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/matzew/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Resources/Capture.bundle /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app36"AAB2B144-776D-442B-BE2C-646CDB3BD3F3-
+
+CCpResource CordovaTest/Resources/icons/icon-72.png build/CordovaTest.app/icon-72.png
+s395406977.015467
+e395406977.065133
+r1
+xCpResource
+xCordovaTest/Resources/icons/icon-72.png
+xbuild/CordovaTest.app/icon-72.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Copy build/CordovaTest.app/icon-72.pngea2304816e91b741^36b110816e91b741^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/icon-72.png000000000080d041^1115"CpResource CordovaTest/Resources/icons/icon-72.png build/CordovaTest.app/icon-72.png    cd /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres.app/Contents/MacOS/bin:/Apache/maven/current//bin/bin:/Users/matzew/Forge/current//bin:/Users/matzew/Work/Conferences/Samples/VERTX/vert.x-1.3.1.final//bin:/Apache/Cordova/current/bin:/Library/Java/JavaVirtualMachines/jdk1.7.0_09.jdk/Contents/Home//bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/matzew/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Resources/icons/icon-72.png /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app36"1FEA736B-BE21-4A4A-B26A-78FB071B6077-
+
+CCpResource CordovaTest/Resources/icons/icon-72@2x.png build/CordovaTest.app/icon-72@2x.png
+s395406977.106023
+e395406977.118614
+r1
+xCpResource
+xCordovaTest/Resources/icons/icon-72@2x.png
+xbuild/CordovaTest.app/icon-72@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy build/CordovaTest.app/icon-72@2x.pnge9471b816e91b741^5b5d1e816e91b741^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/icon-72@2x.png000000000080d041^1130"CpResource "CordovaTest/Resources/icons/icon-72@2x.png" "build/CordovaTest.app/icon-72@2x.png"    cd /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres.app/Contents/MacOS/bin:/Apache/maven/current//bin/bin:/Users/matzew/Forge/current//bin:/Users/matzew/Work/Conferences/Samples/VERTX/vert.x-1.3.1.final//bin:/Apache/Cordova/current/bin:/Library/Java/JavaVirtualMachines/jdk1.7.0_09.jdk/Contents/Home//bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/matzew/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Resources/icons/icon-72@2x.png" /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app36"E1B62E3A-F796-41F8-A356-FBD498911A47-
+
+CCpResource CordovaTest/Resources/icons/icon.png build/CordovaTest.app/icon.png
+s395406977.015449
+e395406977.065140
+r1
+xCpResource
+xCordovaTest/Resources/icons/icon.png
+xbuild/CordovaTest.app/icon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Copy build/CordovaTest.app/icon.pngb41c04816e91b741^1cb310816e91b741^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/icon.png000000000080d041^1106"CpResource CordovaTest/Resources/icons/icon.png build/CordovaTest.app/icon.png    cd /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres.app/Contents/MacOS/bin:/Apache/maven/current//bin/bin:/Users/matzew/Forge/current//bin:/Users/matzew/Work/Conferences/Samples/VERTX/vert.x-1.3.1.final//bin:/Apache/Cordova/current/bin:/Library/Java/JavaVirtualMachines/jdk1.7.0_09.jdk/Contents/Home//bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/matzew/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Resources/icons/icon.png /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app36"9AD238F4-A4F9-43CF-A406-BC24883D48B8-
+
+CCpResource CordovaTest/Resources/icons/icon@2x.png build/CordovaTest.app/icon@2x.png
+s395406977.015482
+e395406977.065137
+r1
+xCpResource
+xCordovaTest/Resources/icons/icon@2x.png
+xbuild/CordovaTest.app/icon@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Copy build/CordovaTest.app/icon@2x.png2a1d04816e91b741^47ad10816e91b741^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/icon@2x.png000000000080d041^1121"CpResource "CordovaTest/Resources/icons/icon@2x.png" "build/CordovaTest.app/icon@2x.png"    cd /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres.app/Contents/MacOS/bin:/Apache/maven/current//bin/bin:/Users/matzew/Forge/current//bin:/Users/matzew/Work/Conferences/Samples/VERTX/vert.x-1.3.1.final//bin:/Apache/Cordova/current/bin:/Library/Java/JavaVirtualMachines/jdk1.7.0_09.jdk/Contents/Home//bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/matzew/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Resources/icons/icon@2x.png" /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app36"49DB2AD9-6E55-4C3D-9C95-060FC5814792-
+
+CCpResource CordovaTest/Resources/splash/Default-568h@2x~iphone.png build/CordovaTest.app/Default-568h@2x~iphone.png
+s395406977.106007
+e395406977.119253
+r1
+xCpResource
+xCordovaTest/Resources/splash/Default-568h@2x~iphone.png
+xbuild/CordovaTest.app/Default-568h@2x~iphone.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/CordovaTest.app/Default-568h@2x~iphone.png28491b816e91b741^e8861e816e91b741^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/Default-568h@2x~iphone.png000000000080d041^1168"CpResource "CordovaTest/Resources/splash/Default-568h@2x~iphone.png" "build/CordovaTest.app/Default-568h@2x~iphone.png"    cd /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres.app/Contents/MacOS/bin:/Apache/maven/current//bin/bin:/Users/matzew/Forge/current//bin:/Users/matzew/Work/Conferences/Samples/VERTX/vert.x-1.3.1.final//bin:/Apache/Cordova/current/bin:/Library/Java/JavaVirtualMachines/jdk1.7.0_09.jdk/Contents/Home//bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/matzew/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Resources/splash/Default-568h@2x~iphone.png" /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app36"87456BC7-7BD7-4FDB-9159-B15D73CBABE1-
+
+CCpResource CordovaTest/Resources/splash/Default-Landscape@2x~ipad.png build/CordovaTest.app/Default-Landscape@2x~ipad.png
+s395406977.066402
+e395406977.104721
+r1
+xCpResource
+xCordovaTest/Resources/splash/Default-Landscape@2x~ipad.png
+xbuild/CordovaTest.app/Default-Landscape@2x~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/CordovaTest.app/Default-Landscape@2x~ipad.png481911816e91b741^fed21a816e91b741^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/Default-Landscape@2x~ipad.png000000000080d041^1177"CpResource "CordovaTest/Resources/splash/Default-Landscape@2x~ipad.png" "build/CordovaTest.app/Default-Landscape@2x~ipad.png"    cd /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres.app/Contents/MacOS/bin:/Apache/maven/current//bin/bin:/Users/matzew/Forge/current//bin:/Users/matzew/Work/Conferences/Samples/VERTX/vert.x-1.3.1.final//bin:/Apache/Cordova/current/bin:/Library/Java/JavaVirtualMachines/jdk1.7.0_09.jdk/Contents/Home//bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/matzew/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Resources/splash/Default-Landscape@2x~ipad.png" /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app36"B2321BD8-4977-4533-B032-8081827A3AA9-
+
+CCpResource CordovaTest/Resources/splash/Default-Landscape~ipad.png build/CordovaTest.app/Default-Landscape~ipad.png
+s395406977.066407
+e395406977.104718
+r1
+xCpResource
+xCordovaTest/Resources/splash/Default-Landscape~ipad.png
+xbuild/CordovaTest.app/Default-Landscape~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/CordovaTest.app/Default-Landscape~ipad.pngb81e11816e91b741^b7cf1a816e91b741^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/Default-Landscape~ipad.png000000000080d041^1168"CpResource "CordovaTest/Resources/splash/Default-Landscape~ipad.png" "build/CordovaTest.app/Default-Landscape~ipad.png"    cd /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres.app/Contents/MacOS/bin:/Apache/maven/current//bin/bin:/Users/matzew/Forge/current//bin:/Users/matzew/Work/Conferences/Samples/VERTX/vert.x-1.3.1.final//bin:/Apache/Cordova/current/bin:/Library/Java/JavaVirtualMachines/jdk1.7.0_09.jdk/Contents/Home//bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/matzew/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Resources/splash/Default-Landscape~ipad.png" /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app36"3CA2A5D5-C216-471D-9EE3-47AD97211804-
+
+CCpResource CordovaTest/Resources/splash/Default-Portrait@2x~ipad.png build/CordovaTest.app/Default-Portrait@2x~ipad.png
+s395406977.081667
+e395406977.119381
+r1
+xCpResource
+xCordovaTest/Resources/splash/Default-Portrait@2x~ipad.png
+xbuild/CordovaTest.app/Default-Portrait@2x~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy build/CordovaTest.app/Default-Portrait@2x~ipad.pngb1fd14816e91b741^b08f1e816e91b741^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/Default-Portrait@2x~ipad.png000000000080d041^1174"CpResource "CordovaTest/Resources/splash/Default-Portrait@2x~ipad.png" "build/CordovaTest.app/Default-Portrait@2x~ipad.png"    cd /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres.app/Contents/MacOS/bin:/Apache/maven/current//bin/bin:/Users/matzew/Forge/current//bin:/Users/matzew/Work/Conferences/Samples/VERTX/vert.x-1.3.1.final//bin:/Apache/Cordova/current/bin:/Library/Java/JavaVirtualMachines/jdk1.7.0_09.jdk/Contents/Home//bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/matzew/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Resources/splash/Default-Portrait@2x~ipad.png" /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app36"4101D767-7A90-48B7-86C9-84C75055952C-
+
+CCpResource CordovaTest/Resources/splash/Default-Portrait~ipad.png build/CordovaTest.app/Default-Portrait~ipad.png
+s395406977.081663
+e395406977.118924
+r1
+xCpResource
+xCordovaTest/Resources/splash/Default-Portrait~ipad.png
+xbuild/CordovaTest.app/Default-Portrait~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy build/CordovaTest.app/Default-Portrait~ipad.pngdd0615816e91b741^54721e816e91b741^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/Default-Portrait~ipad.png000000000080d041^1165"CpResource "CordovaTest/Resources/splash/Default-Portrait~ipad.png" "build/CordovaTest.app/Default-Portrait~ipad.png"    cd /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres.app/Contents/MacOS/bin:/Apache/maven/current//bin/bin:/Users/matzew/Forge/current//bin:/Users/matzew/Work/Conferences/Samples/VERTX/vert.x-1.3.1.final//bin:/Apache/Cordova/current/bin:/Library/Java/JavaVirtualMachines/jdk1.7.0_09.jdk/Contents/Home//bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/matzew/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Resources/splash/Default-Portrait~ipad.png" /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app36"2CA497F7-4C4D-43E0-AC11-BF80C863666C-
+
+CCpResource CordovaTest/Resources/splash/Default@2x~iphone.png build/CordovaTest.app/Default@2x~iphone.png
+s395406977.081672
+e395406977.103538
+r1
+xCpResource
+xCordovaTest/Resources/splash/Default@2x~iphone.png
+xbuild/CordovaTest.app/Default@2x~iphone.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/CordovaTest.app/Default@2x~iphone.pngd2fd14816e91b741^aa811a816e91b741^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/Default@2x~iphone.png000000000080d041^1153"CpResource "CordovaTest/Resources/splash/Default@2x~iphone.png" "build/CordovaTest.app/Default@2x~iphone.png"    cd /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres.app/Contents/MacOS/bin:/Apache/maven/current//bin/bin:/Users/matzew/Forge/current//bin:/Users/matzew/Work/Conferences/Samples/VERTX/vert.x-1.3.1.final//bin:/Apache/Cordova/current/bin:/Library/Java/JavaVirtualMachines/jdk1.7.0_09.jdk/Contents/Home//bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/matzew/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Resources/splash/Default@2x~iphone.png" /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app36"6BBFCC27-0C07-4D10-B8A6-1889443F1AC4-
+
+CCpResource CordovaTest/Resources/splash/Default~iphone.png build/CordovaTest.app/Default~iphone.png
+s395406977.106016
+e395406977.119044
+r1
+xCpResource
+xCordovaTest/Resources/splash/Default~iphone.png
+xbuild/CordovaTest.app/Default~iphone.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy build/CordovaTest.app/Default~iphone.png91481b816e91b741^b77a1e816e91b741^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/Default~iphone.png000000000080d041^1144"CpResource "CordovaTest/Resources/splash/Default~iphone.png" "build/CordovaTest.app/Default~iphone.png"    cd /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres.app/Contents/MacOS/bin:/Apache/maven/current//bin/bin:/Users/matzew/Forge/current//bin:/Users/matzew/Work/Conferences/Samples/VERTX/vert.x-1.3.1.final//bin:/Apache/Cordova/current/bin:/Library/Java/JavaVirtualMachines/jdk1.7.0_09.jdk/Contents/Home//bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/matzew/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/Resources/splash/Default~iphone.png" /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app36"E1CCEADD-B1AF-4A08-B27A-C92784E7B145-
+
+CCpResource CordovaTest/config.xml build/CordovaTest.app/config.xml
+s395406977.015425
+e395406977.017832
+r1
+xCpResource
+xCordovaTest/config.xml
+xbuild/CordovaTest.app/config.xml
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy build/CordovaTest.app/config.xml6e1504816e91b741^d69004816e91b741^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/config.xml000000000080d041^1080"CpResource CordovaTest/config.xml build/CordovaTest.app/config.xml    cd /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres.app/Contents/MacOS/bin:/Apache/maven/current//bin/bin:/Users/matzew/Forge/current//bin:/Users/matzew/Work/Conferences/Samples/VERTX/vert.x-1.3.1.final//bin:/Apache/Cordova/current/bin:/Library/Java/JavaVirtualMachines/jdk1.7.0_09.jdk/Contents/Home//bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/matzew/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/config.xml /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app36"F05B98A2-52BF-43F1-94A9-A343361A0FEA-
+
+CGenerateDSYMFile /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app.dSYM /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/CordovaTest
+r0
+
+CLd /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/CordovaTest normal i386
+r0
+
+CPhaseScriptExecution "Copy www directory" /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Script-304B58A110DAC018002A0835.sh
+s395406976.791566
+e395406977.007414
+r1
+xPhaseScriptExecution
+xCopy www directory
+x/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Script-304B58A110DAC018002A0835.sh
+o
+oreal	0m0.200s
+ouser	0m0.055s
+osys	0m0.065s
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'dc46cb806e91b741^58e601816e91b741^-42"real	0m0.200suser	0m0.055ssys	0m0.065s3(21%IDEActivityLogMessage2@14"real	0m0.200s-395406977#1#14#-0#-----2@14"user	0m0.055s-395406977#15#14#-0#-----2@13"sys	0m0.065s-395406977#29#13#-0#-----0#0#0#--21908"PhaseScriptExecution "Copy www directory" build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Script-304B58A110DAC018002A0835.sh    cd /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER matzew    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build    setenv BUILD_ROOT /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build    setenv CACHE_ROOT /var/folders/yz/nx79cwt14j79lm1mmjdf9n880000gn/C/com.apple.Xcode.501    setenv CCHROOT /var/folders/yz/nx79cwt14j79lm1mmjdf9n880000gn/C/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLANG_ENABLE_OBJC_ARC NO    setenv CLANG_WARN_CONSTANT_CONVERSION YES    setenv CLANG_WARN_ENUM_CONVERSION YES    setenv CLANG_WARN_INT_CONVERSION YES    setenv CLANG_WARN__DUPLICATE_METHOD_MATCH YES    setenv CLASS_FILE_DIR /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/yz/nx79cwt14j79lm1mmjdf9n880000gn/C/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build    setenv CONFIGURATION_TEMP_DIR /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator    setenv CONTENTS_FOLDER_PATH CordovaTest.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Applications/Xcode.app/Contents/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH CordovaTest.app/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/CordovaTest.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME CordovaTest.app.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH CordovaTest.app/Executables    setenv EXECUTABLE_FOLDER_PATH CordovaTest.app    setenv EXECUTABLE_NAME CordovaTest    setenv EXECUTABLE_PATH CordovaTest.app/CordovaTest    setenv FILE_LIST /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH CordovaTest.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME CordovaTest.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER CordovaTest/CordovaTest-Prefix.pch    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_THUMB_SUPPORT NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvm_clang_1_0    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNINITIALIZED_AUTOS YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/include\" \"/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/usr/local/lib/include\" \"/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/UninstalledProducts/include\" \"/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build\""    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE CordovaTest/CordovaTest-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH CordovaTest.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH CordovaTest.app/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/CordovaTest.dst/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER matzew    setenv INSTALL_PATH /Applications    setenv INSTALL_ROOT /tmp/CordovaTest.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH CordovaTest.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/CordovaTest-LinkMap-normal-i386.txt    setenv LD_NO_PIE NO    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal/i386/CordovaTest.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH CordovaTest.app/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 12D78    setenv MAC_OS_X_VERSION_ACTUAL 1083    setenv MAC_OS_X_VERSION_MAJOR 1080    setenv MAC_OS_X_VERSION_MINOR 0803    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Objects-normal    setenv OBJROOT /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -all_load -Obj-C"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/Applications/Postgres.app/Contents/MacOS/bin:/Apache/maven/current/bin/bin:/Users/matzew/Forge/current/bin:/Users/matzew/Work/Conferences/Samples/VERTX/vert.x-1.3.1.final/bin:/Apache/Cordova/current/bin:/Library/Java/JavaVirtualMachines/jdk1.7.0_09.jdk/Contents/Home/bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/matzew/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH CordovaTest.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/PkgInfo    setenv PKGINFO_PATH CordovaTest.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PREFERRED_ARCH i386    setenv PLATFORM_PRODUCT_BUILD_VERSION 10B141    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 60100    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH CordovaTest.app/PlugIns    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH CordovaTest.app/PrivateHeaders    setenv PRODUCT_NAME CordovaTest    setenv PRODUCT_SETTINGS_PATH /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/CordovaTest-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT CordovaTest    setenv PROJECT_DERIVED_FILE_DIR /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/DerivedSources    setenv PROJECT_DIR /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios    setenv PROJECT_FILE_PATH /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest.xcodeproj    setenv PROJECT_NAME CordovaTest    setenv PROJECT_TEMP_DIR /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build    setenv PROJECT_TEMP_ROOT /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build    setenv PUBLIC_HEADERS_FOLDER_PATH CordovaTest.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH CordovaTest.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk    setenv SDK_NAME iphonesimulator6.1    setenv SDK_PRODUCT_BUILD_VERSION 10B141    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH CordovaTest.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/yz/nx79cwt14j79lm1mmjdf9n880000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH CordovaTest.app/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios    setenv SRCROOT /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMROOT /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1,2    setenv TARGETNAME CordovaTest    setenv TARGET_BUILD_DIR /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build    setenv TARGET_NAME CordovaTest    setenv TARGET_TEMP_DIR /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build    setenv TEMP_DIR /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build    setenv TEMP_FILES_DIR /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build    setenv TEMP_FILE_DIR /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build    setenv TEMP_ROOT /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build    setenv TEST_AFTER_BUILD NO    setenv TOOLCHAINS com.apple.dt.toolchain.XcodeDefault    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH CordovaTest.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER matzew    setenv USER_APPS_DIR /Users/matzew/Applications    setenv USER_LIBRARY_DIR /Users/matzew/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH CordovaTest.app/version.plist    setenv VERSION_INFO_BUILDER matzew    setenv VERSION_INFO_FILE CordovaTest_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:CordovaTest  PROJECT:CordovaTest-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME CordovaTest.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 4H1003    setenv XCODE_VERSION_ACTUAL 0462    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0460    setenv YACC yacc    /bin/sh -c /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/Script-304B58A110DAC018002A0835.sh36"8A2B8A20-02DC-45CB-A927-E0936BF723E0-
+
+CProcessInfoPlistFile /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/Info.plist CordovaTest/CordovaTest-Info.plist
+s395406976.780778
+e395406976.783614
+r1
+xProcessInfoPlistFile
+x/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/Info.plist
+xCordovaTest/CordovaTest-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Process CordovaTest/CordovaTest-Info.plist94f9c7806e91b741^aa9ac8806e91b741^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/CordovaTest-Info.plist0000000000000000^1149"ProcessInfoPlistFile build/CordovaTest.app/Info.plist CordovaTest/CordovaTest-Info.plist    cd /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres.app/Contents/MacOS/bin:/Apache/maven/current//bin/bin:/Users/matzew/Forge/current//bin:/Users/matzew/Work/Conferences/Samples/VERTX/vert.x-1.3.1.final//bin:/Apache/Cordova/current/bin:/Library/Java/JavaVirtualMachines/jdk1.7.0_09.jdk/Contents/Home//bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/matzew/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-infoPlistUtility CordovaTest/CordovaTest-Info.plist -genpkginfo /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app/Info.plist36"3D1B3F18-3118-45C4-A329-A6A4C3D087E3-
+
+CProcessPCH /var/folders/yz/nx79cwt14j79lm1mmjdf9n880000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaTest-Prefix-aahsssbispolkggiccnbozbewcai/CordovaTest-Prefix.pch.pth CordovaTest/CordovaTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395406982.985375
+e395406983.313343
+r1
+xProcessPCH
+x/var/folders/yz/nx79cwt14j79lm1mmjdf9n880000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaTest-Prefix-aahsssbispolkggiccnbozbewcai/CordovaTest-Prefix.pch.pth
+xCordovaTest/CordovaTest-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile CordovaTest/CordovaTest-Prefix.pchb262fc866e91b741^613750876e91b741^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/CordovaTest-Prefix.pch0000000000000000^4196"ProcessPCH /var/folders/yz/nx79cwt14j79lm1mmjdf9n880000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaTest-Prefix-aahsssbispolkggiccnbozbewcai/CordovaTest-Prefix.pch.pth CordovaTest/CordovaTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres.app/Contents/MacOS/bin:/Apache/maven/current//bin/bin:/Users/matzew/Forge/current//bin:/Users/matzew/Work/Conferences/Samples/VERTX/vert.x-1.3.1.final//bin:/Apache/Cordova/current/bin:/Library/Java/JavaVirtualMachines/jdk1.7.0_09.jdk/Contents/Home//bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/gems/ruby-1.9.3-p327@global/bin:/Users/matzew/.rvm/rubies/ruby-1.9.3-p327/bin:/Users/matzew/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/CordovaTest-generated-files.hmap -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/CordovaTest-own-target-headers.hmap -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/CordovaTest-all-target-headers.hmap -iquote /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/CordovaTest-project-headers.hmap -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/include -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/usr/local/lib/include -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/UninstalledProducts/include -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/DerivedSources/i386 -I/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.build/Debug-iphonesimulator/CordovaTest.build/DerivedSources -F/Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build --serialize-diagnostics /var/folders/yz/nx79cwt14j79lm1mmjdf9n880000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaTest-Prefix-aahsssbispolkggiccnbozbewcai/CordovaTest-Prefix.pch.dia -c /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/CordovaTest/CordovaTest-Prefix.pch -o /var/folders/yz/nx79cwt14j79lm1mmjdf9n880000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaTest-Prefix-aahsssbispolkggiccnbozbewcai/CordovaTest-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/yz/nx79cwt14j79lm1mmjdf9n880000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaTest-Prefix-aahsssbispolkggiccnbozbewcai/CordovaTest-Prefix.pch.d36"6B8F0B81-92C8-468F-969A-12F1C5B42A9D-
+
+CTouch /Users/matzew/TEMP/CordovaTests/APP/CordovaTest/platforms/ios/build/CordovaTest.app
+r0
+
